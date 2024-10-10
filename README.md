@@ -47,9 +47,6 @@ Make sure you have the following installed:
 
 Enter `John` and `Johnny`, and the application will calculate the percentage similarity between the two names.
 
-## Screenshot
-
-![Screenshot of Brotherhood Calculator](./screenshot.png)
 
 ## License
 
