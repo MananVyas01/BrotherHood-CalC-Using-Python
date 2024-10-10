@@ -22,19 +22,19 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/brotherhood-calculator.git
+    git clone https://github.com/your-username/BrotherHood-CalC-Using-Python.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd brotherhood-calculator
+    cd BrotherHood-CalC-Using-Python
     ```
 
 3. Run the application:
 
     ```bash
-    python brotherhood_calculator.py
+    python Brotherhood01.py
     ```
 
 ### How to Use
