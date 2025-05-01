@@ -22,7 +22,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/BrotherHood-CalC-Using-Python.git
+    git clone https://github.com/MananVyas01/BrotherHood-CalC-Using-Python.git
     ```
 
 2. Navigate to the project directory:
